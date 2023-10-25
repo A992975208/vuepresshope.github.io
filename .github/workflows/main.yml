@@ -19,15 +19,9 @@ jobs:
         with:
           persist-credentials: false
 
-      - run:
-          name: Install Dependencies
-          command: npm install
-
-      # Build打包
-      - run:
-          name: Build project
-          command: npm docs:build
-
+      # 生成静态文件
+      - name: Build
+        run: npm install && npm run docs:build
 
       # 部署到 GitHub Pages
       - name: Deploy
