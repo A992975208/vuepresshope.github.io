@@ -21,12 +21,12 @@ jobs:
 
       - run:
           name: Install Dependencies
-          command: yarn install
+          command: npm install
 
       # Build打包
       - run:
           name: Build project
-          command: yarn docs:build
+          command: npm docs:build
 
 
       # 部署到 GitHub Pages
