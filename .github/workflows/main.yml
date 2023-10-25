@@ -23,9 +23,10 @@ jobs:
           name: Install Dependencies
           command: yarn install
 
-      # 生成静态文件
-      - name: Build
-        run: yarn docs:build
+      # Build打包
+      - run:
+          name: Build project
+          command: yarn docs:build
 
 
       # 部署到 GitHub Pages
