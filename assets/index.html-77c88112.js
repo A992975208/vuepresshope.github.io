@@ -1,1 +1,0 @@
-import{_ as a,r as o,o as r,c as s,b as n,d as e,e as c}from"./app-1631cab8.js";const d={},_=e("h1",{id:"threejs",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#threejs","aria-hidden":"true"},"#"),c(" threejs")],-1);function l(h,i){const t=o("AutoCatalog");return r(),s("div",null,[_,n(t)])}const m=a(d,[["render",l],["__file","index.html.vue"]]);export{m as default};

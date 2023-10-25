@@ -1,1 +1,0 @@
-import{_ as t,o as c,c as r,d as e,e as s}from"./app-1631cab8.js";const a={},o=e("h1",{id:"typescript使用",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#typescript使用","aria-hidden":"true"},"#"),s(" typescript使用")],-1),i=[o];function n(_,d){return c(),r("div",null,i)}const h=t(a,[["render",n],["__file","typescript.html.vue"]]);export{h as default};
