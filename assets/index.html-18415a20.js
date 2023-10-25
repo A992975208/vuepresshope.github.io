@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-6a9bf498","path":"/article/vue/naive-ui/","title":"Naive Ui","lang":"zh-CN","frontmatter":{"title":"Naive Ui","article":false,"feed":false,"sitemap":false},"headers":[],"git":{},"readingTime":{"minutes":0,"words":1},"filePathRelative":null,"excerpt":""}');export{e as data};

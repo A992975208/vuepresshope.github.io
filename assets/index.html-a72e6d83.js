@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-294ad710","path":"/tag/vant/","title":"标签: Vant","lang":"zh-CN","frontmatter":{"title":"标签: Vant","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"Vant","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

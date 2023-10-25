@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-294f7bb8","path":"/tag/x-ui/","title":"标签: x-ui","lang":"zh-CN","frontmatter":{"title":"标签: x-ui","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"x-ui","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

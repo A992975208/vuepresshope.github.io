@@ -1,0 +1,1 @@
+const e=JSON.parse('{"key":"v-1378dfa0","path":"/tag/pinia/","title":"标签: Pinia","lang":"zh-CN","frontmatter":{"title":"标签: Pinia","dir":{"index":false},"feed":false,"sitemap":false,"blog":{"type":"category","name":"Pinia","key":"tag"},"layout":"BlogCategory"},"headers":[],"git":{},"readingTime":{"minutes":0,"words":0},"filePathRelative":null,"excerpt":""}');export{e as data};

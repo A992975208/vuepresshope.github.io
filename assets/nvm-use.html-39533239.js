@@ -1,0 +1,1 @@
+import{_ as t,o as n,c as a,d as e,e as s}from"./app-1631cab8.js";const c={},o=e("h1",{id:"nvm的使用",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#nvm的使用","aria-hidden":"true"},"#"),s(" nvm的使用")],-1),r=[o];function _(d,i){return n(),a("div",null,r)}const h=t(c,[["render",_],["__file","nvm-use.html.vue"]]);export{h as default};
